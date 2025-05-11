@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai==1.14.2
+scenedetect[opencv]
+ffmpeg-python
+python-multipart  # for file upload
+pytube
